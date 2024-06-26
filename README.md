@@ -57,4 +57,4 @@ your-project-id@appspot.gserviceaccount.com
 
 ## Advanced Parameters
 
-You can find a list of all available parameters at[Stackoverflow](https://stackoverflow.com/a/25438197/1312280)
+You can find a list of all available parameters at [Stackoverflow](https://stackoverflow.com/a/25438197/1312280)
