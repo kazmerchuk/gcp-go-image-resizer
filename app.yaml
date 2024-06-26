@@ -1,0 +1,7 @@
+runtime: go121
+app_engine_apis: true
+service: image-resizer
+
+handlers:
+- url: /.*
+  script: auto
